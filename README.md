@@ -1,0 +1,1 @@
+This is my personal portfolio website built using HTML and CSS. It showcases my projects, skills, and web development journey. The design is fully responsive and user-friendly with a clean and modern UI layout. I am continuously learning and improving my development skills through practice and real-world projects.
